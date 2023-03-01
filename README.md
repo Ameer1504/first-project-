@@ -1,5 +1,5 @@
 # first-project-
 this is my first repo project :)
-jaqfjaefjhfhnaf
+oopsie daiseys
 print 'hello world'
 Hellllo guys wassup
